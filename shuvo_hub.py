@@ -6,10 +6,10 @@ def banner():
     print("\033[1;32m")
     print("  ##################################################")
     print("  #                                                #")
-    print("  #        HIJBULLAH ISLAM'S CYBER TOOLKIT         #")
+    print("  #  ("WELCOME TO HIJBULLAH ISLAM'S HACKING HUB")  #")
     print("  #       ---------------------------------        #")
-    print("  #      DIGITAL MARKETING & SEO SPECIALIST        #")
-    print("  #                                                #")
+    print("  #      DIGITAL MARKETING,SEO SPECIALIST          #")
+    print("  #              & ETHICAL HACKER                  #")
     print("  ##################################################")
     print("\033[0m")
 
