@@ -49,7 +49,7 @@ def main():
             
             if os.path.exists("hijbullah-ethical-hacking1"):
                 
-                os.system("cd hijbullah-ethical-hacking1 && python shuvophishing")
+                os.system("cd hijbullah-ethical-hacking1 && python shuvo.py")
             else:
                 print("\n[!] SMS Bomber not found. Run Option 5 first.")
                 input("Press Enter...")
